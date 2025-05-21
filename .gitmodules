@@ -1,3 +1,6 @@
 [submodule "labo0"]
 	path = labo0
 	url = https://github.com/Scirelgar/LOG430-Lab0.git
+[submodule "LOG430-Lab1"]
+	path = LOG430-Lab1
+	url = https://github.com/Scirelgar/LOG430-Lab1.git
